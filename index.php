@@ -1,3 +1,4 @@
+
 <?php include ("inc/top.php"); ?>
     
     <div id="content">
@@ -5,8 +6,6 @@
         <div id="left">
         
              <div id="postit">
-                 
-                
                 
                 <p>A juste 2h d'avion d'Europe, <b>le Maroc</b> est un paradis pour parapentistes, une invitation au voyage et aux rencontres.</p>
 

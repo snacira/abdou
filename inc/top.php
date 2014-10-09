@@ -16,7 +16,14 @@
 <body>
 
 	<div id="container">
-    
+         <div id="accessibility">    
+            <a href="#" id="less" title="Caractères plus petits">
+                <img src="img/picto-outils-zoom-moins.gif" width="20px" height="18" alt="">
+            </a>
+            <a href="" id="more" title="Caractères plus grands">
+                <img src="img/picto-outils-zoom-plus.gif" width="20px" height="18" alt="">
+            </a>
+        </div>   
     <div id="header">
         <div id="bijour">
             <span class="font85">Bijour</span><span class="font29">. Je suis <strong>Abderrahim Derbani</strong></span><br/>
