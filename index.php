@@ -43,31 +43,33 @@
                 <span class="tagline">Vous ne faites que gonfler, voler, manger, rire, dormir. Le reste, je m'en occupe...</span><br /><br />
 
 				<div class="list">
-	                <div class="transport"></div>
-                        <div class="tddesc">
-                            <h3>Transport</h3>
-                            <p>Transfert de et vers l'aéroport, navettes entre l'attéro et le déco, courses locales avant le départ...</p>
-                        </div>
+
+	                
+                    <div class="transport"></div>
+                    <div class="tddesc">
+                        <h3>Transport</h3>
+                        <p>Transfert de et vers l'aéroport, navettes entre l'attéro et le déco, courses locales avant le départ...</p>
+                    </div>
                     
                     <div class="hebergement"></div>
-                        <div class="tddesc">
-                            <h3>Hébergement</h3>
-                            <p>Réservations d'hôtels et d'auberges confortables, directement sur le déco lorsque possible.</p>
-                        </div>
-                
+                    <div class="tddesc">
+                        <h3>Hébergement</h3>
+                        <p>Réservations d'hôtels et d'auberges confortables, directement sur le déco lorsque possible.</p>
+                    </div>                
+
                     <div class="repas"></div>
-                        <div class="tddesc">
-                            <h3>Repas</h3>
-                            <p>Réservation dans des restaurants typiques, préparation des déjeuners directement sur le site, au besoin.</p>
-                        </div>
+                    <div class="tddesc">
+                        <h3>Repas</h3>
+                        <p>Réservation dans des restaurants typiques, préparation des déjeuners directement sur le site, au besoin.</p>
+                    </div>
                     
                     <div class="guide"></div>
-                        <div class="tddesc">
-                            <h3>Guide</h3>
-                            <p>Proposition de circuits en fonction de l'aérologie, visites locales, renseignements culturels.</p>
-                        </div>
+                    <div class="tddesc">
+                        <h3>Guide</h3>
+                        <p>Proposition de circuits en fonction de l'aérologie, visites locales, renseignements culturels.</p>
+                    </div>	                
 	            </div>
-			</div>
+            </div>
             
             <br />
             
@@ -90,24 +92,22 @@
 	                        <h3>Marrakech</h3>
 	                        <p>Transferts aéroport de Marrakech, vols en montagne, vue sur les sommets de l'Atlas, longs vols thermiques...</p>
 	                    </div>
-                </div> 
-            
 
-            <br />
+	                	                
+                </div> 
+                
+                <br />
                 <ul class="clearboth">
                     <li>Disponible de septembre à janvier (de février à mai, contactez <a href="http://www.lesgensdair.com/maroc.htm" title="Voyage de parapente au Maroc" target="_blank">Les Gens d'Air</a>).</li>
                     <li>Pour voler avec moi, vous devez être un pilote breveté.</li>
                     <li>Avant le départ, vous devez impérativement avoir rempli les conditions d'autorisation de vol au Maroc.</li>
                 </ul>
-            </div>
-        
-        </div>
-    
-       
+            </div>        
+        </div>          
     </div>
     
     <div class="clear"></div>
     
     <br /><br />
 
-  <?php include ("inc/botom.php"); ?> 
+  <?php include ("inc/botom.php"); ?>
