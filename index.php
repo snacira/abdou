@@ -1,6 +1,7 @@
 <!DOCTYPE HTML>
 <html>
 <head>
+<meta name="keywords" content="guide parapente maroc">
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title>Guide de parapente au Maroc | Abderahim Derbani</title>
 <meta name="Description" content="Abderrahim Derbani, guide de parapente au Maroc, sur les circuits d'Agadir et de Marrakech." />
