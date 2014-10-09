@@ -163,7 +163,7 @@
         
     <div class="clear"></div><br />
     
-    <div id="subfooter">&copy;Abderrahim Derbani 2012 | site par <a href="http://www.webolic.com" target="_blank">Webolic</a></div>
+    <div id="subfooter">&copy;Abderrahim Derbani <?php echo date ("Y");?>| site par <a href="http://www.webolic.com" target="_blank">Webolic</a></div>
     
     </div>
     
