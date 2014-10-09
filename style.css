@@ -61,7 +61,12 @@ input:invalid, textarea:invalid { background-color: #f0dddd; }
 table { border-collapse: collapse; border-spacing: 0; }
 td { vertical-align: top; }
 
+			
 
+
+			/*Mon code*/
+.list{ border-collapse: collapse; border-spacing: 0; }
+td { vertical-align: top; }
 
 
 
@@ -218,40 +223,51 @@ h3 {
 }
 
 .tddesc {
+	width: 230px;
 	font-style:italic;
 	color:#666;
 	font-size:11px;
+	float: left;
 }
 
-td.transport, td.hebergement, td.repas, td.guide, td.agadir, td.marrakech {
+.transport, .hebergement, .repas, .guide, .agadir, .marrakech {
+	float: left;
 	width:70px;
 	height:70px;
 	background-image:url(img/icons-sprite.png);
 	background-repeat:no-repeat;
 }
 
-td.transport {
+.transport {
 	background-position:0 0;
 }
 
-td.hebergement {
+.hebergement {
 	background-position:0 -78px;
 }
 
-td.repas {
+.repas {
 	background-position:0 -162px;
 }
 
-td.guide {
+.guide {
 	background-position:0 -248px;
 }
 
-td.agadir {
+.agadir {
 	background-position:0 -330px;
 }
 
-td.marrakech {
+.marrakech {
 	background-position:0 -410px;
+}
+
+.clearboth{
+	clear: both;
+}
+
+#circuit{
+	height: 90px;
 }
 
 img.pics {
