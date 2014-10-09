@@ -8,3 +8,4 @@ $("a[rel=shadowbox]").fancybox({
 				'transitionIn'	: 'fade',
 				'transitionOut'	: 'fade'
 			});
+
