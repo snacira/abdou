@@ -22,20 +22,16 @@ zoomFont = {
 	/* lancement du carrousel*/
 	init : function(){
 
-		console.log(zoomFontLess);
 		less = $("#less")
 		more = $("#more")
 		less.on("click",zoomFont.zoomFontLess)
-		//more.on("click",zoomFont.zoomFontMore)
+		more.on("click",zoomFont.zoomFontMore)
 	},
 	zoomFontLess : function(){
-		//var body = $(document.body)
-		var currentSize = $(document.body).css("fontSize")
-		var currentSizeNum = $(document.body).parseFloat(currentSize, 10)
-		var newSize = $(document.body).currentSizeNum*0.8
-		body.css("fontSize", newSize)
-    	return false;
-
+		$(document.body).stop().animate({fontSize: '-=1px'},300);
+	},
+	zoomFontMore : function(){
+		$(document.body).stop().animate({fontSize: '+=1px'},300);
 	}
 
 
